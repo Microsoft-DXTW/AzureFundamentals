@@ -1,0 +1,10 @@
+# Episode 3: Azure 虛擬機器入門服務
+
+這集主要介紹 [Azure 虛擬機器服務](https://azure.microsoft.com/zh-tw/services/virtual-machines/)的基本管理及維運思維，涵蓋的範圍有：
+
+  * 建立虛擬機器服務
+  * 連接虛擬機器
+  * 掛載磁碟機
+  * 建立 HA (high availability) 架構
+
+影片錄影[重播在此](https://www.facebook.com/msdn.taiwan/videos/1256693277702173/)。

@@ -4,7 +4,7 @@
 
   * [Episode 1](ep1/README.md): 瞭解 Microsoft Azure 訂用帳戶（subscription）以及管理界面。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1238798819491619/))
   * [Episode 2](ep2/README.md): Azure 儲存服務。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1247469825291185/))
-  * Episode 3: Azure 虛擬機器服務入門
+  * [Episode 3](ep3/README.md): Azure 虛擬機器服務入門。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1256693277702173/))
   * Episode 4: Azure App Services
   * Episode 5: Azure Container Services
   * Episode 6: Azure SQL 資料庫服務
