@@ -1,5 +1,7 @@
 # Episode 3: Azure 虛擬機器入門服務
 
+直播時間：2016 年 12 月 28 日 22:00
+
 這集主要介紹 [Azure 虛擬機器服務](https://azure.microsoft.com/zh-tw/services/virtual-machines/)的基本管理及維運思維，涵蓋的範圍有：
 
   * 建立虛擬機器服務
