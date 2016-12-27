@@ -8,6 +8,6 @@
   * 連接虛擬機器
   * 掛載磁碟機
   * 開啟連接埠的設定
-  * 建立 HA (high availability) 架構
+  * 建立 HA (high availability) 架構以及負載平衡
 
 影片錄影[重播在此](https://www.facebook.com/msdn.taiwan/videos/1256693277702173/)。
