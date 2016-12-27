@@ -8,3 +8,7 @@
 
   * 跨平台的 [Microsoft Azure Storage Explorer](http://storageexplorer.com/)。
   * 適合大檔案上傳的 [AzCopy](https://docs.microsoft.com/zh-tw/azure/storage/storage-use-azcopy)。
+
+## 更新影片提及內容
+
+  * Block Blob 將單一 block 的上限提升到 100MB（原 4MB），而單一 blob 的上限則提升至 4.77TB，不過 append blob 的上限仍然為 195GB。[參考資料](https://azure.microsoft.com/zh-tw/blog/general-availability-larger-block-blobs-in-azure-storage/)
