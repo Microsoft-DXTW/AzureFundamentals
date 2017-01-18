@@ -5,13 +5,13 @@
   * (2016/12/14) [Episode 1](ep1/README.md): 瞭解 Microsoft Azure 訂用帳戶（subscription）以及管理界面。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1238798819491619/))
   * (2016/12/21) [Episode 2](ep2/README.md): Azure 儲存服務。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1247469825291185/))
   * (2016/12/28) [Episode 3](ep3/README.md): Azure 虛擬機器服務入門。([直播連結](https://www.facebook.com/msdn.taiwan/videos/1256693277702173/))
-  * (2016/01/11) Episode 4: Azure App Services ([直播連結](https://www.facebook.com/msdn.taiwan/videos/1267238623314305/))
-  * (2016/01/18) Episode 5: Azure Container Services ([直播連結](https://www.facebook.com/msdn.taiwan/videos/1273642796007221/))
-  * (2016/01/25) Episode 6: Azure SQL 資料庫服務
-  * (2016/02/08) Episode 7: Azure （跨平台）命令列工具
-  * (2016/02/15) Episode 8: Azure 媒體服務
-  * (2016/02/22) Episode 9: Azure IoT 服務
-  * (2016/03/01) Episode 10: Azure 機器學習服務
+  * (2017/01/11) Episode 4: Azure App Services ([直播連結](https://www.facebook.com/msdn.taiwan/videos/1267238623314305/))
+  * (2017/01/18) Episode 5: Azure Container Services ([直播連結](https://www.facebook.com/msdn.taiwan/videos/1273642796007221/))
+  * (2017/01/25) Episode 6: Azure SQL 資料庫服務
+  * (2017/02/08) Episode 7: Azure （跨平台）命令列工具
+  * (2017/02/15) Episode 8: Azure 媒體服務
+  * (2017/02/22) Episode 9: Azure IoT 服務
+  * (2017/03/01) Episode 10: Azure 機器學習服務
   * TBD
   * ...
 
